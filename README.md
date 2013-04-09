@@ -1,0 +1,4 @@
+openroadvn
+==========
+
+Openroad đưa ra một tập hợp các dịch vụ để giúp mọi người chia sẻ các kinh nghiệm của họ với các công nghệ mở và hỗ trợ họ tìm kiếm, lựa chọn, sử dụng lại, phát triển và triển khai các phần mềm và các tài sản được chia sẻ. Openray đưa ra nội dung phù hợp và sâu sắc trong một loạt lĩnh vực quan tâm, bao gồm: Các tương tác xuyên biên giới và xuyên khu vực giữa các cơ quan chính phủ; Truy cập tới một kho các tài sản được chia sẻ và sử dụng lại được; Các phương pháp luận và trợ giúp thực tiễn về sự phát triển các tài sản công nghệ mở chia sẻ được. Các dự án nhằm mục đích làm gia tăng và thực hiện các công nghệ mở, các tiêu chuẩn và phương pháp mở khắp khu vực chính phủ.
